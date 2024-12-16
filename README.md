@@ -19,7 +19,7 @@ Before you run the scripts to train GKF-PUAL on PEN to assess the performance of
 
 
 ## Quick start
-Run ```XXX_RRGLLC_0.5_1.R``` or ```GKF_GLPUAL_pen_0.25.R``` and wait for a while. Then the F1-score and error rate for classification on the test set will be output on R console. The hyper-parameters in ```GKF_GLPUAL_pen_0.25.R``` has been determined previously via the method in Section 4.3 of paper [1]. You can also set the value of them manually in the block "The setting of hyper-parameters" from row 27 to row 40.
+Run ```XXX_RRGLLC_0.5_1.R``` or ```GKF_GLPUAL_pen_0.25.R``` and wait for a while. Then the F1-score and error rate for classification on the test set will be output on R console. The hyper-parameters in ```GKF_GLPUAL_pen_0.25.R``` has been determined previously via the method in Section 4.3 of paper [1]. You can also set the value of them manually.
 
 
 ## Contact
